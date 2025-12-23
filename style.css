@@ -34,7 +34,6 @@ body {
     margin-right: 27px;
 }
 
-/* home section */
 .section1{
     padding-top: 3rem;
     display: grid;
@@ -74,7 +73,6 @@ video{
     margin-bottom: 16px;
 }
 
-/*  section 2*/
 .section2{
     margin-top: 5rem;
     background-color: #ffff;
@@ -91,7 +89,6 @@ video{
      }
 }
 
-/* section 3 */
 .parent{
     display: flex;
     flex-direction: row;
@@ -131,7 +128,7 @@ video{
     object-fit: cover;
 }
 
-/*  section 4*/
+
 .section4{
     margin-top: 5rem;
     background-color: #ffff;
@@ -187,7 +184,6 @@ video{
    font-size: 18px;
 }
 
-/* section6 */
 .section6{
     display: flex;
     flex-direction: row;
@@ -357,7 +353,6 @@ video{
     margin-top: 2rem;
     font-weight: bolder;
 }
-/* ----------------------------------------------------------- */
 
 .medi{
   display: flex;
@@ -405,7 +400,7 @@ video{
     font-weight: bolder;
     align-items: center;
 }
-/* -------------------------- */
+
 .qqq{
     width: 12rem;
 }
@@ -417,8 +412,6 @@ video{
     
 }
 .ppp h1{
-    /* width: auto;
-    height: 8px; */
     display: flex;
     flex-direction: row;
     gap: 17px;
@@ -428,7 +421,6 @@ video{
     letter-spacing: 1px;
 }
 
-/* ------------------------------------ */
 .ppsspp{
     display: flex;
     flex-direction: row;
